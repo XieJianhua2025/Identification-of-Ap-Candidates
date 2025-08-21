@@ -6,5 +6,4 @@ This repository contains the core network of ECACNet, which is implemented in Py
 This file contains the trained ECACNet model, which can be directly loaded for inference or further fine-tuning. It includes the learned weights from training on Ap stars and the six other stellar classes.
 # validation data.csv
 This file provides information about the validation dataset, including details such as designation, obsid, and other related parameters.
-# If you use the code or dataset provided in this repository in your research, please cite the following paper:
-Thank you for citing our work.
+
