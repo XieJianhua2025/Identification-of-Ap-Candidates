@@ -21,7 +21,7 @@ class ECA_Module(nn.Module):
         y = self.sigmoid(y).transpose(-1, -2).unsqueeze(-1)  
         return x * y.expand_as(x)
 
-# Basic CNN Block (No residual connection)
+# Basic CNN Block
 class CNNBlock(nn.Module):
     def __init__(self, in_channels, out_channels, downsample=False, use_eca=False):
         super(CNNBlock, self).__init__()
