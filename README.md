@@ -8,5 +8,6 @@ This file contains the trained ECACNet model, which can be directly loaded for i
 This file provides information about the validation dataset, including details such as designation, obsid, and other related parameters.
 # Table6 and Table7
 Table 6 presents the results of our cross-matching with the known Ap star catalog, while Table 7 lists our newly discovered Ap candidate stars.
-# If you use the code or dataset provided in this repository in your research, please cite the following [paper](https://doi.org/10.1093/mnras/staf1962):Thank you for citing our work.
+# If you use the code or dataset provided in this repository in your research, please cite the following [paper](https://doi.org/10.1093/mnras/staf1962):
+Thank you for citing our work.
 
